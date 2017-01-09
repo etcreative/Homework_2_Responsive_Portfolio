@@ -1,0 +1,49 @@
+nav {
+	background-color: #ffffff;
+	height: 50px;
+}
+
+
+.links {
+	position:relative;
+	margin: 100px;
+	padding: 25px;
+	background-color: #ffffff;
+	height: 250px;
+	width: 40%;
+	float: right;
+
+
+}
+
+body {
+    background-image: url("images/escheresque.png"); 
+    background-repeat: repeat-yes;
+	position:absolute;
+	margin: 0;
+	padding: 0;
+	
+
+}
+
+h1 {
+	color: white;
+	position:absolute;
+	z-index:1;
+	background-color: #4aaaa5;
+	height: 200px;
+	width: 200px;
+
+
+.headername {
+
+
+}
+
+<style>
+
+
+
+
+
+</style>
